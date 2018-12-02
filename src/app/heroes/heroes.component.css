@@ -30,6 +30,9 @@
     background-color: #DDD;
     left: .1em;
   }
+  .heroes li a {
+    text-decoration: none;
+  }
   .heroes .text {
     position: relative;
     top: -3px;
